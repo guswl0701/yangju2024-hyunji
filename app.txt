@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-edit05
+edit06
 
-=======
-file version v2
->>>>>>> 593d37322a17d2f1e947daa6f485ef9ac8385f88
